@@ -1,0 +1,3 @@
+- 👋 Olá, meu nome é @Bielzinx31
+- 👀 Eu estou interessado a aprender a programar novas linguagens 
+- 🌱 Eu estou aprendendo a progamar recentemente a linguagem de JavaScript e Scratch
